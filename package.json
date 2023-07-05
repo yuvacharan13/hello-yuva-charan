@@ -1,6 +1,6 @@
 {
   "name": "hello-yuva-charan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test package being uploaded to npm",
   "main": "index.js",
   "scripts": {
