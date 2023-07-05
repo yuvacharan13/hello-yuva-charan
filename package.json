@@ -1,0 +1,11 @@
+{
+  "name": "hello-yuva-charan",
+  "version": "1.0.0",
+  "description": "test package being uploaded to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Insane Developer",
+  "license": "ISC"
+}
